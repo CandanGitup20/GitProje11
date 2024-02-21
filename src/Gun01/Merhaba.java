@@ -5,7 +5,11 @@ public class Merhaba {
         System.out.println("Merhaba 1");
         System.out.println("Merhaba 2");
         System.out.println("Merhaba 3");
-        System.out.println("Merhaba 4");
+
+        for (int i = 0; i < ; i++) {
+            System.out.println("Merhaba");
+
+        }
 
 
 
