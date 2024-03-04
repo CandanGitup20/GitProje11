@@ -12,6 +12,11 @@ public class Merhaba {
             System.out.println("Merhaba");
         }
 
+        System.out.println("Merhaba 6");
+
+
+
+
 
     }
 }
